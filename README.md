@@ -2,16 +2,16 @@
 
 Welcome to my personal knowledge repository focused on Large Language Models (LLMs), Agentic AI, DevOps automation, and system design fundamentals.
 
-# This repository is built for:
+### This repository is built for:
 
 - Structured learning
 - Interview preparation
 - Real-world system understanding
 - Long-term reference
 
-### 🧠 Topics Covered
+## 🧠 Topics Covered
 
-## 1. Large Language Models (LLMs)
+### 1. Large Language Models (LLMs)
 
 - How LLMs work internally
 - Tokens, embeddings, transformers
@@ -20,31 +20,31 @@ Welcome to my personal knowledge repository focused on Large Language Models (LL
 - Inference, sampling, hallucinations
 - Retrieval-Augmented Generation (RAG)
 
-## 2. Agentic AI
+### 2. Agentic AI
 
 - What are AI agents
 - Tool usage, memory, planning
 - Agent orchestration (LangGraph, CrewAI)
 - DevOps & ITSM agents
 
-## 3. Vector Databases
+### 3. Vector Databases
 - Embeddings and semantic search
 - FAISS, Chroma, Pinecone
 - RAG pipelines and architecture
 
-## 4. DevOps + AI
+### 4. DevOps + AI
 - AI-driven operations
 - Monitoring & automation
 - Security best practices
 - Cloud & infrastructure use cases
 
-## 5. System Design
+### 5. System Design
 - Caching strategies
 - Cache invalidation
 - Redis vs Memcached
 - Scalability patterns
 
-## 6. Tools & Technologies
+### 6. Tools & Technologies
 - Python
 - OpenAI / Azure OpenAI / Bedrock
 - LangChain / LangGraph
@@ -52,11 +52,11 @@ Welcome to my personal knowledge repository focused on Large Language Models (LL
 - Docker
 - FastAPI
 
-##  Goal of This Repository
+###  Goal of This Repository
 
 Build deep understanding of how modern AI systems work internally and how to apply them safely and effectively in real-world systems.
 
-##  How to Use
+###  How to Use
 
 - Browse docs/ for theory
 - Explore examples/ for code
